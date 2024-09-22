@@ -9,27 +9,27 @@ Let's dive into the steps to play the game and some key details you'll need to k
 
 How to Play:
 
-1.Enter the Level:
+1. Enter the Level:
 * At the start of the game, you’ll be asked to enter a level.
 * The level determines the range of numbers you'll guess from. 
 * For example, if you enter 10, the secret number will be randomly chosen between 1 and 10.
 
-2.Start Guessing:
+2. Start Guessing:
 * Once the game starts, you need to guess the number.
 * After each guess, the game will give you a visual hint showing
   how close or far your guess is to the secret number.
 
-3.Hints and Visual Guide:
+3. Hints and Visual Guide:
 The game uses ASCII art and arrows (|) to help you understand how close your guess is to the target:
 * Far Away: Your guess is far from the secret number, and the visual will look upset (-_-).
 * Closer but still far (7+ distance): The game will encourage you to aim closer with a hint like "Away! Aim closer."
 * Almost There (less than 7 distance): The visual will indicate you're getting very close.
 * Exact Match: 🎯 You hit the Bullseye, and the game will celebrate your victory!
 
-4.Final Score:
-o The game tracks how many guesses you make.
-o Each wrong guess reduces your score by 5 points.
-o Try to hit the bullseye in as few guesses as possible to maximize your score!
+4. Final Score:
+* The game tracks how many guesses you make.
+* Each wrong guess reduces your score by 5 points.
+* Try to hit the bullseye in as few guesses as possible to maximize your score!
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -53,14 +53,15 @@ How to Run the Game:
      cd bullseye-guessing-game
 
 2. Install Dependencies:
-     This game uses the tkinter library for GUI windows (no external dependencies needed). Make sure you have Python3 installed.
+     This game uses the tkinter library for GUI windows (no external dependencies needed).
+     Make sure you have Python3 installed.
      Python installation tutorial: https://youtu.be/W1iXIiF5iMw?feature=shared
 
-3. Run the Game:
+4. Run the Game:
      Run the game by typing:
      python bullseye_guessing_game.py
 
-4. Play!
+5. Play!
 oThe game will start by showing the instructions in a popup window.
 oFollow the instructions to enter your level, start guessing, and hit the bullseye!
 
@@ -90,13 +91,13 @@ Whether it’s improving the game or adding new features, we’d love your input
 -------------------------------------------------------------------------------------------------------------------------------------
 
 Follow:
-GitHub Repo
-Discord:  alley_._
+GitHub Repo
+Discord: alley_._
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Now that you're all set, go ahead and start playing the Bullseye Guessing Game. Best of luck hitting the bullseye! 🎯 
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
