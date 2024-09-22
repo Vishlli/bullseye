@@ -88,11 +88,10 @@ Contributing:
 Feel free to contribute to this project by submitting a pull request! 
 Whether it’s improving the game or adding new features, we’d love your input.
 
+Discord: alley_._
+
 -------------------------------------------------------------------------------------------------------------------------------------
 
-Follow:
-  -> GitHub Repo
-  -> Discord: alley_._
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
