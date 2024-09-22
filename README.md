@@ -14,10 +14,12 @@ How to Play:
 * The level determines the range of numbers you'll guess from. 
 * For example, if you enter 10, the secret number will be randomly chosen between 1 and 10.
 
+
 2. Start Guessing:
 * Once the game starts, you need to guess the number.
 * After each guess, the game will give you a visual hint showing
   how close or far your guess is to the secret number.
+
 
 3. Hints and Visual Guide:
 The game uses ASCII art and arrows (|) to help you understand how close your guess is to the target:
@@ -25,6 +27,7 @@ The game uses ASCII art and arrows (|) to help you understand how close your gue
 * Closer but still far (7+ distance): The game will encourage you to aim closer with a hint like "Away! Aim closer."
 * Almost There (less than 7 distance): The visual will indicate you're getting very close.
 * Exact Match: 🎯 You hit the Bullseye, and the game will celebrate your victory!
+
 
 4. Final Score:
 * The game tracks how many guesses you make.
@@ -76,10 +79,13 @@ Tips to Win:
 
 FAQs:
 1. Q: What happens if I enter a negative level?
+   
    A: The game will prompt you to enter a positive number for the level.
 2. Q: How do I win?
+   
    A: You win by guessing the correct number! The visual hints will help guide you.
 3. Q: Can I play again after I win?
+
    A: Yes! After the game ends, you can choose to play again by entering Y or exit by entering N.
    
 ---------------------------------------------------------------------------------------------------------------------------------
